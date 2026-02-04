@@ -1,0 +1,147 @@
+{
+  "personal": {
+    "name": "Rohith Vadla",
+    "title": "Full Stack Developer",
+    "profilePicture": "",
+    "resumeUrl": "https://drive.google.com/file/d/1UoxA-Wo3QwmAap23ijcyTe4PpStSLc1R/view?usp=sharing",
+    "typingRoles": ["Developer", "Designer", "Creator"],
+    "tagline": "Building Digital Experiences That Matter",
+    "email": "rohithvadla07@gmail.com",
+    "location": "Nizamabad, Telangana",
+    "experience": "0",
+    "primaryDomain": "Web Development"
+  },
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/rohith-vadla03/",
+    "github": "https://github.com/Rohith101coder",
+    "leetcode": "https://leetcode.com/u/Rohith2248/",
+    "hackerrank": null,
+    "portfolio": null
+  },
+  "about": {
+    "short": "Computer Science undergraduate (AI & ML, 2026) with hands-on experience in full-stack web development and real-world problem solving. Passionate about building scalable applications using Java, JavaScript, Node.js, and MongoDB, with strong interest in AI-driven solutions.",
+    "detailed": "I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, currently pursuing my B.Tech with a strong academic record. I enjoy transforming ideas into real-world applications by combining problem-solving skills with full-stack development.\n\nI have built and deployed multiple projects including a real-time Air Quality Dashboard and a full-stack donation platform, where I worked extensively with Node.js, Express.js, REST APIs, MongoDB, and frontend technologies. I also led a team during a college-level hackathon, where our project won 1st Prize for innovation and social impact.\n\nBeyond academics, I actively participate in hackathons and technical events such as Smart India Hackathon and AI HackDays by Tech Mahindra, which have strengthened my teamwork, leadership, and practical development skills. I am eager to learn, experiment with emerging technologies, and contribute to impactful software solutions in a professional environment."
+  },
+  "skills": {
+    "frontend": ["HTML", "CSS", "JavaScript", "React"],
+    "backend": ["Java",  "Spring", "REST APIs"],
+    "databases": ["MySQL"],
+    "tools": ["Git","GitHub","Postman"],
+    "aiTools": ["ChatGPT", "GitHub Copilot", "Cursor", "Antigravity"]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "OrphanageCare Hub",
+      "status": "Completed",
+      "category": "Web Application",
+      "description": "OrphanageCareHub is",
+      "techStack": ["HTML", "CSS", "JavaScript", "Node.js", "REST APIs"],
+      "liveDemo": null,
+      "github": "https://github.com/Rohith101coder",
+      "image": null
+    },
+    {
+      "id": 2,
+      "title": "Resume Skill Gap Analyzer and Course Generator Tool",
+      "status": "In Progress",
+      "category": "Tool",
+      "description": "coming soon",
+      "techStack": ["Java","SpringBoot","REST APIs"],
+      "liveDemo": null,
+      "github": "https://github.com/Rohith101coder/ResumeAnalyser",
+      "image": null
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "B.Tech",
+      "field": "Computer Science (AI & ML)",
+      "institute": "Indur Institute of Engineering and Technology",
+      "location": "Telangana, India",
+      "status": "Under Graduate (2026)",
+      "score": "8.5 / 10 CGPA",
+      "description": "Pursuing a Bachelor's degree in Computer Science Engineering with specialization in Artificial Intelligence & Machine Learning. Relevant coursework includes Data Structures, Object-Oriented Programming, Database Management Systems, Machine Learning, Artificial Intelligence, and Web Technologies."
+    },
+    {
+      "id": 2,
+      "degree": "Intermediate",
+      "field": "MPC",
+      "institute": "Sri Vijaya Sai Junior College",
+      "location": "Telangana, India",
+      "status": "Graduated (2022)",
+      "score": "9.5 / 10",
+      "description": "Completed Intermediate education with a strong foundation in Mathematics, Physics, and Chemistry, which enhanced analytical thinking and problem-solving skills."
+    },
+    {
+      "id": 3,
+      "degree": "Secondary Education",
+      "field": "SSC",
+      "institute": "Matrix High School",
+      "location": "Telangana, India",
+      "status": "Graduated (2020)",
+      "score": "10 / 10",
+      "description": "Successfully completed Secondary School education with excellent academic performance and a strong interest in science and technology."
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "name": "College-Level Hackathon – 1st Prize",
+      "platform": "Indur Institute of Engineering and Technology",
+      "date": "2024",
+      "skills": ["Full-Stack Development", "Leadership", "REST APIs", "MongoDB", "Team Management"],
+      "verification": "https://drive.google.com/file/d/16elpKA8BSuKPGpw8K_YEUFGsU_ji4hkc/view?usp=sharing"
+    },
+    {
+      "id": 2,
+      "name": "AI HackDays 2025 – Participation Certificate",
+      "platform": "Tech Mahindra",
+      "date": "2025",
+      "skills": ["Artificial Intelligence", "Problem Solving", "Team Collaboration", "Innovation"],
+      "verification": "https://drive.google.com/file/d/1oEm2FQwM_f3TB7WQ9_QV4K2jRtgjnLHT/view?usp=sharing"
+    },
+    {
+      "id": 3,
+      "name": "Introduction to Large Language Models",
+      "platform": "NPTEL (IIT System – Government of India)",
+      "date": "2025",
+      "skills": ["Large Language Models", "Generative AI", "NLP Fundamentals", "Transformer Models"],
+      "verification": "https://drive.google.com/file/d/1_mnQUptuZF5TrnBYFPkr4tAKh3eb1fn7/view?usp=sharing"
+    },
+    {
+      "id": 4,
+      "name": "Data Structures and Algorithms Using Java",
+      "platform": "NPTEL (IIT System – Government of India)",
+      "date": "2025",
+      "skills": ["Java", "Algorithms", "Data Structures", "Collections Framework"],
+      "verification": "https://drive.google.com/file/d/1nAs4GOXkh-t_E92hR1TUNH2yj8hg4oTA/view?usp=sharing"
+    },
+    {
+      "id": 5,
+      "name": "Smart India Hackathon 2025",
+      "platform": "College Level",
+      "date": "2025",
+      "skills": ["Python", "FastAPI", "NLP Fundamentals", "React"],
+      "verification": "https://drive.google.com/file/d/1jxmt8GQ7P1k-r6OYGgNZvyeM-Zyi_WDe/view?usp=sharing"
+    }
+    
+    
+  ],
+  "cta": {
+    "availability": "Open to full-time roles, internships & collaborative projects",
+    "message": "I'm actively seeking opportunities to contribute as a Software Engineer / AI & ML Developer. If you're looking for a motivated problem-solver with strong technical skills, let's get in touch."
+  },
+  "footer": {
+    "name": "Rohith Vadla"
+  },
+  "navLinks": [
+    { "href": "#about", "label": "About" },
+    { "href": "#skills", "label": "Skills" },
+    { "href": "#projects", "label": "Projects" },
+    { "href": "#education", "label": "Education" },
+    { "href": "#certifications", "label": "Certifications" },
+    { "href": "#contact", "label": "Contact" }
+  ]
+}
