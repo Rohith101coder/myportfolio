@@ -25,7 +25,7 @@
   "skills": {
     "frontend": ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
     "backend": ["PHP", "Java",  "Spring", "REST APIs"],
-    "databases": ["MySQL","vector DB"],
+    "databases": ["MySQL"],
     "tools": ["Git","GitHub","Postman"],
     "aiTools": ["ChatGPT", "GitHub Copilot", "Cursor", "Antigravity"],
     "nlpconcepts":["Text Classification", "embeddings"]
