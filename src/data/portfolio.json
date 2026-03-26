@@ -19,16 +19,16 @@
     "portfolio": null
   },
   "about": {
-    "short": "Computer Science undergraduate (AI & ML, 2026) with hands-on experience in full-stack web development and real-world problem solving. Passionate about building scalable applications using Java, JavaScript, Node.js, and MongoDB, with strong interest in AI-driven solutions.",
-    "detailed": "I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, currently pursuing my B.Tech with a strong academic record. I enjoy transforming ideas into real-world applications by combining problem-solving skills with full-stack development.\n\nI have built and deployed multiple projects including a real-time Air Quality Dashboard and a full-stack donation platform, where I worked extensively with Node.js, Express.js, REST APIs, MongoDB, and frontend technologies. I also led a team during a college-level hackathon, where our project won 1st Prize for innovation and social impact.\n\nBeyond academics, I actively participate in hackathons and technical events such as Smart India Hackathon and AI HackDays by Tech Mahindra, which have strengthened my teamwork, leadership, and practical development skills. I am eager to learn, experiment with emerging technologies, and contribute to impactful software solutions in a professional environment."
+    "short": "Computer Science undergraduate (AI & ML, 2026) with strong hands-on experience in frontend development and building responsive, user-centric web applications. Skilled in HTML, CSS, JavaScript, and Bootstrap, with working knowledge of PHP and backend integration. Passionate about creating seamless user experiences and translating ideas into interactive web interfaces.",
+    "detailed": "I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, currently pursuing my B.Tech. I enjoy designing and developing responsive, user-friendly web applications by combining strong problem-solving skills with modern frontend technologies.\n\nI have built and deployed multiple projects including a real-time Air Quality Dashboard and a full-stack donation platform, where I focused on creating intuitive user interfaces using HTML, CSS, JavaScript, and Bootstrap, along with integrating backend services using Node.js and REST APIs. I also have working knowledge of PHP for handling form data and basic backend operations.\n\nDuring a college-level hackathon, I led a team and secured 1st Prize for innovation and social impact, where I contributed significantly to frontend design and overall application usability.\n\nBeyond academics, I actively participate in hackathons and technical events such as Smart India Hackathon and AI HackDays by Tech Mahindra, which have strengthened my ability to build real-world solutions, collaborate effectively, and deliver under pressure.\n\nI am highly interested in frontend development and continuously work on improving my skills in creating responsive designs, optimizing user experience, and building scalable web applications."
   },
   "skills": {
-    "frontend": ["HTML", "CSS", "JavaScript", "React"],
-    "backend": ["Java",  "Spring", "REST APIs"],
+    "frontend": ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
+    "backend": ["PHP", "Java",  "Spring", "REST APIs"],
     "databases": ["MySQL","vector DB"],
     "tools": ["Git","GitHub","Postman"],
     "aiTools": ["ChatGPT", "GitHub Copilot", "Cursor", "Antigravity"],
-    "nlp concepts":["Text Classification", "embeddings"]
+    "nlpconcepts":["Text Classification", "embeddings"]
   },
   "projects": [
     {
@@ -51,6 +51,17 @@
       "techStack": ["Java","SpringBoot","REST APIs"],
       "liveDemo": null,
       "github": "https://github.com/Rohith101coder/ResumeAnalyser",
+      "image": null
+    },
+    {
+      "id": 3,
+      "title": "Authentication System",
+      "status": "Completed",
+      "category": "Web Application",
+      "description": "A secure PHP-based authentication system featuring user registration, secure login, logout functionality, and protected dashboard access.",
+      "techStack": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+      "liveDemo": null,
+      "github": "https://github.com/Rohith101coder/authentication_using_php",
       "image": null
     }
   ],

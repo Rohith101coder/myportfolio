@@ -411,46 +411,25 @@
   color: var(--primary-color);
 }
 
-.skill-items {
+.skill-items-simple {
   display: flex;
-  flex-direction: column;
-  gap: 1rem;
+  flex-wrap: wrap;
+  gap: 0.75rem;
 }
 
-.skill-item {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-
-.skill-name {
-  font-size: 0.9rem;
-  color: var(--text-secondary);
-}
-
-.skill-bar {
-  height: 8px;
+.skill-tag {
+  padding: 0.5rem 1rem;
   background: rgba(0, 255, 255, 0.1);
-  border-radius: 4px;
-  overflow: hidden;
+  border: 1px solid rgba(0, 255, 255, 0.3);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  color: var(--primary-color);
+  transition: all 0.3s ease;
 }
 
-.skill-progress {
-  height: 100%;
-  background: var(--gradient-1);
-  border-radius: 4px;
-  animation: progressAnimation 1.5s ease forwards;
-  opacity: 0;
-}
-
-.skill-progress.animate-in {
-  opacity: 1;
-}
-
-@keyframes progressAnimation {
-  from {
-    width: 0%;
-  }
+.skill-tag:hover {
+  background: var(--primary-color);
+  color: var(--bg-dark);
 }
 
 /* Projects */

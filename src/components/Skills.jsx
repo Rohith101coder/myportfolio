@@ -9,12 +9,6 @@ function Skills({ data }) {
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
             entry.target.classList.add('animate-in')
-            // Animate skill bars
-            const skillBars = entry.target.querySelectorAll('.skill-progress')
-            skillBars.forEach((bar) => {
-              bar.style.animationDelay = '0.5s'
-              bar.classList.add('animate-in')
-            })
           }
         })
       },
@@ -47,20 +41,11 @@ function Skills({ data }) {
           {skillCategories.map((category, index) => (
             <div key={index} className="skill-category">
               <h3 className="category-title">{category.name}</h3>
-              <div className="skill-items">
+              <div className="skill-items-simple">
                 {category.items.map((skill, skillIndex) => (
-                  <div key={skillIndex} className="skill-item">
-                    <span className="skill-name">{skill}</span>
-                    <div className="skill-bar">
-                      <div
-                        className="skill-progress"
-                        style={{
-                          width: `${85 + Math.random() * 15}%`,
-                          animationDelay: `${skillIndex * 0.1}s`
-                        }}
-                      ></div>
-                    </div>
-                  </div>
+                  <span key={skillIndex} className="skill-tag">
+                    {skill}
+                  </span>
                 ))}
               </div>
             </div>
