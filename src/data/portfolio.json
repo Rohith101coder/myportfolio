@@ -3,7 +3,7 @@
     "name": "Rohith Vadla",
     "title": "Full Stack Developer",
     "profilePicture": "",
-    "resumeUrl": "https://drive.google.com/file/d/1UoxA-Wo3QwmAap23ijcyTe4PpStSLc1R/view?usp=sharing",
+    "resumeUrl": "https://drive.google.com/file/d/1d9S2oSGXOkKvHEpyeKzxMCMeX50SlbvB/view?usp=sharing",
     "typingRoles": ["Developer", "Designer", "Creator"],
     "tagline": "Building Digital Experiences That Matter",
     "email": "rohithvadla07@gmail.com",
@@ -27,8 +27,7 @@
     "backend": ["PHP", "Java",  "Spring", "REST APIs"],
     "databases": ["MySQL"],
     "tools": ["Git","GitHub","Postman"],
-    "aiTools": ["ChatGPT", "GitHub Copilot", "Cursor", "Antigravity"],
-    "nlpconcepts":["Text Classification", "embeddings"]
+    "aiTools": ["ChatGPT", "GitHub Copilot", "Cursor", "Antigravity"]
   },
   "projects": [
     {
